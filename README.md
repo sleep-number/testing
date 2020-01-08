@@ -1,4 +1,4 @@
-## Testing displaying html files on github page
+## Displaying html files on github page
 
 To upload files:
 
